@@ -1,8 +1,7 @@
-### Hi there 👋, I am [Quenitn](https://QuentinPOL.github.io/)! 😁
+### Hi there 👋, I am [Quentin](https://QuentinPOL.github.io/)! 😁
 
-Hello, my name is POLLET Quentin and I am a BTEC's student majoring in Computer Science and Networks. My technology stack involves Javascript, HTML5, CSS3, C, C++, MySQL, Bootstrap.
+Hello, my name is Quentin Pollet and I am a BTEC's student majoring in Computer Science and Networks. 
 
-- 💬 Brainstorm with me over tech, algorithms and career
 
 ### Languages and Tools:
 
@@ -12,12 +11,12 @@ Hello, my name is POLLET Quentin and I am a BTEC's student majoring in Computer 
 
 
 <p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HugoTby&theme=dark&show_icons=trueinclude_all_commits=true&custom_title=GitHub%20Stats" align = "center"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoTby&theme=dark&hide=TeX&layout=compact&langs_count=8" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=QuentinPOL&theme=dark&show_icons=trueinclude_all_commits=true&custom_title=GitHub%20Stats" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuentinPOL&theme=dark&hide=TeX&layout=compact&langs_count=8" align = "center"/>
 </p>
 
 
 
 [![OS - Windows](https://img.shields.io/badge/OS-Windows-orange?logo=windows&logoColor=white)](https://www.microsoft.com/ "Go to Microsoft homepage")
 [![OS - Linux](https://img.shields.io/badge/OS-Linux-orange?logo=linux&logoColor=white)](https://www.linux.org/ "Go to Linux homepage")
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=HugoTby.HugoTby)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=QuentinPOL.QuentinPOL)
