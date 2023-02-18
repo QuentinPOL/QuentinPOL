@@ -5,7 +5,7 @@ Hello, my name is Quentin Pollet and I am a BTEC's student majoring in Computer 
 
 ### Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cpp,java,git,github,wordpress,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cpp,php,git,github,python)](https://skillicons.dev)
 <br />
 <br />
 
