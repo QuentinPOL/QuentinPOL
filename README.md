@@ -1,6 +1,6 @@
 ### Hi there 👋, I am [Quentin](https://QuentinPOL.github.io/)! 😁
 
-Hello, my name is Quentin Pollet and I am a BTEC's student majoring in Computer Science and Networks. 
+Hello, my name is Quentin Pollet and I am a apprentice in computer engineering school
 
 
 ### Languages and Tools:
